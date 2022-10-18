@@ -36,7 +36,7 @@
 
 <br>
 
-## :sassy_man:  Statistical Data
+## 💻  Statistical Data
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=copurcihan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -51,3 +51,12 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=copurcihan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+  <br/>
+   <a href="https://github.com/copurcihan"><img alt="Cihan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=copurcihan&custom_title=Cihan's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
