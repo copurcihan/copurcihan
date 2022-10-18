@@ -8,12 +8,11 @@
 - 🧑‍💼: I am a `Software Development Manager` at [Pointr Deep Location Company](https://www.pointr.tech/)
 - 📆: Over 10 Years of Hands on `Software Development` Experience
 - 💼: 3 Years (2019-2022 ) as `CTO` Responsible For Technology Development and Productization at [b-infoGIS](https://www.b-infogis.com.tr/)
-- 💼: 2014-2019 as `Software Development/Product Manager` Responsible for 3 Teams ☑️ [b-PRO EDS](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-EDS/1) ☑️ [b-PRO ENH](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-ENH/3) ☑️ [b-infoGIS NMS](https://www.b-infogis.com.tr/tr/Urunler/b-infoGIS-NMS/4)
+- 💼: 2014-2019 as `Software Development/Product Manager` for 3 Teams ☑️ [b-PRO EDS](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-EDS/1) ☑️ [b-PRO ENH](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-ENH/3) ☑️ [b-infoGIS NMS](https://www.b-infogis.com.tr/tr/Urunler/b-infoGIS-NMS/4)
 - 💼: 2013-2014 `Sofware Engineer` at [b-infoGIS](https://www.b-infogis.com.tr/)
 - 💼: 2012-2013 `Sofware Engineer` at [Hugo Boss](https://www.hugoboss.com/)
 - :trophy: [Winner](https://www.enerjigunlugu.net/elektrik-sebekeleri-cbs-tabanli-modellenecek-7731h.htm) of [`TET`](https://www.tetprojepazari.org/en/Default.aspx) 2014
 - :technologist: I Deliver Working Software and Design Process
-- :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: Master of Business Administration at [Akdeniz University](https://www.akdeniz.edu.tr/) `3.82/4.00 Top 3 Students`
 - :student: BSc Computer Engineering at [Ege University](https://ege.edu.tr/) `3.52/4.00 Top 3 Students`
 - :student: [Kuleli Military High School](https://tr.wikipedia.org/wiki/Kuleli_Asker%C3%AE_Lisesi) `Top 10 Students`
@@ -22,3 +21,33 @@
 - 🎵 A Good Music Listener 
 - 💸 Amateur Economist 
 - 🇺🇳 International Relations Enthusiast
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cihancopur/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/copurcihan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/cihancopur/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+
+<br>
+
+## :sassy_man:  Statistical Data
+
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=copurcihan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=copurcihan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=copurcihan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
