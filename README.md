@@ -5,12 +5,13 @@
 
 
 ## :sassy_man:  About me [cihancopur.com](https://cihancopur.com/en/) [info@cihancopur.com](https://emailto:info@cihancopur.com/)
-- 🧑‍💼: I am a `Software Development Manager` at [Pointr Deep Location Company](https://www.pointr.tech/)
+- 🧑‍💼: I am a `Software Engineering Manager ` at [Algoritma](https://algoritma.io/) / [BinBin Micro Mobility](https://www.binbin.tech/)
 - 📆: Over 10 Years of Hands on `Software Development` Experience
+- 💼: 1 Year (2022-2023 ) as Software Development Manager at [Pointr Deep Location Company (London/UK)](https://www.pointr.tech/)
 - 💼: 3 Years (2019-2022 ) as `CTO` Responsible For Technology Development and Productization at [b-infoGIS](https://www.b-infogis.com.tr/)
-- 💼: 2014-2019 as `Software Development/Product Manager` for 3 Teams ☑️ [b-PRO EDS](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-EDS/1) ☑️ [b-PRO ENH](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-ENH/3) ☑️ [b-infoGIS NMS](https://www.b-infogis.com.tr/tr/Urunler/b-infoGIS-NMS/4)
-- 💼: 2013-2014 `Sofware Engineer` at [b-infoGIS](https://www.b-infogis.com.tr/)
-- 💼: 2012-2013 `Sofware Engineer` at [Hugo Boss](https://www.hugoboss.com/)
+- 💼: 5 Years (2014-2019) as `Software Development/Product Manager` for 3 Teams ☑️ [b-PRO EDS](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-EDS/1) ☑️ [b-PRO ENH](https://www.b-infogis.com.tr/tr/Urunler/b-PRO-ENH/3) ☑️ [b-infoGIS NMS](https://www.b-infogis.com.tr/tr/Urunler/b-infoGIS-NMS/4)
+- 💼: 1 Year (2013-2014) `Sofware Engineer` at [b-infoGIS](https://www.b-infogis.com.tr/)
+- 💼: 1 Year (2012-2013) `Sofware Engineer` at [Hugo Boss](https://www.hugoboss.com/)
 - :trophy: [Winner](https://www.enerjigunlugu.net/elektrik-sebekeleri-cbs-tabanli-modellenecek-7731h.htm) of [`TET`](https://www.tetprojepazari.org/en/Default.aspx) 2014
 - :technologist: I Deliver Working Software and Design Process
 - :student: Master of Business Administration at [Akdeniz University](https://www.akdeniz.edu.tr/) `3.82/4.00 Top 3 Students`
